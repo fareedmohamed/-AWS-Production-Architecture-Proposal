@@ -29,7 +29,7 @@ The solution focuses on:
 
 ## Figure 2 - CI/CD Pipeline
 
-![](diagrams/cicd-pipeline.png)
+![diagrams/cicd-pipeline.png](https://github.com/fareedmohamed/-AWS-Production-Architecture-Proposal/blob/455baf35dadbb40a9529b5ef7466d688543e90ca/CI%20CD.png)
 
 ---
 
