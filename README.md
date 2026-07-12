@@ -1,4 +1,4 @@
-# -AWS-Production-Architecture-Proposal# AWS Production Architecture Proposal
+# -AWS-Production-Architecture-Proposal
 
 A production-ready AWS architecture proposal designed for a containerized application using Docker and AWS cloud services.
 
