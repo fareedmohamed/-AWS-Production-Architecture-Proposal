@@ -23,7 +23,7 @@ The solution focuses on:
 
 ## Figure 1 - AWS Production Architecture
 
-![](diagrams/aws-architecture.png)
+![]([diagrams/aws-architecture.png](https://github.com/fareedmohamed/-AWS-Production-Architecture-Proposal/blob/b5161b5daad28de2000587925196bf29e159717c/AWS%20ARCH_.png))
 
 ---
 
