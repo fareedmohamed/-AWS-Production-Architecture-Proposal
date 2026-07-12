@@ -53,12 +53,3 @@ The solution focuses on:
 
 ---
 
-# Editable Diagrams
-
-All diagrams were manually designed using draw.io.
-
-Source files are available in:
-
-- diagrams/aws-architecture.drawio
-- diagrams/cicd-pipeline.drawio
-- diagrams/deployment-rollback.drawio
